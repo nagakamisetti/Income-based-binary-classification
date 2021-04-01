@@ -2,3 +2,4 @@ secret.txt
 notes/
 data/
 .DS_Store
+.code/notebooks/.ipynb_checkpoints/
