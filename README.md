@@ -10,7 +10,4 @@ Save the files as csv type for ease of working. There are three files with names
 
 **Project Status**: This is still in development phase and this repository will be updated on a weekly basis. 
 
-Contributing: After this project is completed, I will update my code and results here and you can continue from my work. 
-
-
 
